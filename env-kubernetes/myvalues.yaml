@@ -5,3 +5,11 @@ docker-registry:
   enabled: false
 controllerteam:
   enabled: false
+controllerworkflow:
+  enabled: false
+controllercommitstatus:
+  enabled: false
+controllerrole:
+  enabled: false
+extensions:
+  enabled: false
