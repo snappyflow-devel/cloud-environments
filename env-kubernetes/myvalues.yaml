@@ -3,3 +3,5 @@ monocular:
   enabled: false
 docker-registry:
   enabled: false
+controllerteam:
+  enabled: false
