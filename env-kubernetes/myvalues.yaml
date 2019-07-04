@@ -35,4 +35,4 @@ gcpods:
 jenkins:
   Master:
     Image: "jenkinsxio/jenkinsx"
-    ImageTag: "0.0.57"
+    ImageTag: "0.0.53"
