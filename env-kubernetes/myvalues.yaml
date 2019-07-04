@@ -13,3 +13,26 @@ controllerrole:
   enabled: false
 extensions:
   enabled: false
+gcpreviews:
+  cronjob:
+    enabled: false
+gcactivities:
+  cronjob:
+    enabled: false
+  serviceaccount:
+    enabled: false
+  role:
+    enabled: false
+  clusterrole:
+    enabled: true
+gcpods:
+  cronjob:
+    enabled: false
+  serviceaccount:
+    enabled: false
+  role:
+    enabled: false
+jenkins:
+  Master:
+    Image: "jenkinsxio/jenkinsx"
+    ImageTag: "0.0.57"
